@@ -1,0 +1,117 @@
+[
+    {
+        "tabTitle": "Personas and Storyboards",
+        "projectTitle": "Creating Storyboards and Personas for Cash Machine Users in CSS, HTML and JS ",
+        "projectDescription": [
+            "For this project, we were tasked with observing an interface in a public setting, describing this interface, and observing how users interacted with it. Using this information, we created personas from our interviews and then made a storyboard from our personas.",
+            "For my website, I chose the payment machine at the RISD Bolt Cafe as my interface. I observed three people interacting with the interface and discussed their experience with them. Based on these interviews, I created two personas - Calm Catherine and Stressed Sally - and made a storyboard based on a potential customer experience for the Calm Catherine personas.",
+            "Below please see a link to my website for this project."
+        ],
+        "siteSpecifics": [
+            "As I have injured myself and am currently unable to draw, I was unable to make a new version of this project to show my progress. However, in making this portfolio site, it has, in itself, been a chance for me to apply several key aspects of this project, namely the software employed."
+        ],
+        "softwareUsed": "Created using Javascript, HTML and CSS.",
+        "projectDates": "September/October 2022",
+        "imagePaths": [
+
+        ],
+        "linkToWebsite": [
+            "https://tiredlabradoodle123.github.io/personasAndStoryboards/"
+        ],
+        "lessons": [
+            "This project was my first time working with Javascript, HTML, CSS and with the concepts of personas and storyboards. I learnt how to be comfortable with interviewing strangers about their interactions with an interface, and how to ask useful questions about what could be improved. I learnt how to create pertinent personas and also how to use these personas to formulate a storyboard.",
+            "It was important for me to include this project in my final portfolio to demonstrate the progress I have made over the course of this class."
+        ]
+    },
+    {
+        "tabTitle": "Jamble: Figma",
+        "projectTitle": "Creating A Tik-Tok style app prototype for second hand clothing sales using Balsamiq and Figma",
+        "projectDescription": [
+            "As a part of our User Interfaces and User Experiences course, we were assigned the task of designing an interactive interface for a start-up of our choice. My group selected the start-up Jamble. The task allowed us to read about their company and understand its goals, but we were not permitted to look at any of their designs. In other words we came up with our mock-ups on our own purely with the start-up’s vision in mind.",
+            "Our high-fidelity prototype (made in Figma) for Jamble follows a Tik-Tok like model, emphasizing the importance of interactivity in shopping. As per the company’s goals, we created a prototype that allows users to shop for garments via live real and video systems, creating sample buyer and seller profiles, reel pages and a checkout simulation. As we were designing, some of the problems we encountered was how much information to include about the garments and in the user profile, as we wanted to provide context but not overwhelm the user. We believed we successfully navigated this quandary by including features such as style descriptions in the seller profiles, to efficiently yet personally give buyers background. We also included a feature where users can see the types of products that the seller has previously sold, so that even though the products are no longer available, the user has an indication of the seller's product range.",
+            "Below please see a link to my group’s website for this project for more information. I have extracted the key portions from our groups page - the balsamiiq low-fi and our figma - and integrated them directly into this website for efficiency."
+        ],
+        "siteSpecifics": [
+            "I have not further developed this project alone, since my group already developed the figma and submission website to completion. As mentioned on the personas page, however, I have been able to employ what I have learnt in teh creation of this portfolio."
+        ],
+        "softwareUsed": "Created with Figma, Balsamiq, and JS HTML and CSS for the submission website.",
+        "projectDates": "November 2022",
+        "imagePaths": [
+            "images/balsm.png"
+        ],
+        "linkToWebsite": [
+            "https://cs1300-iterative-design-7ne.pages.dev/", "https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2Fxrmvp6EZU29M4oV6zAvAcL%2FUntitled%3Fnode-id%3D1%253A555%26t%3D1Ek8aNCFQJgFC2lG-1"
+        ],
+        "lessons": [
+            "I learnt a ton from this project and I loved having the opportunity to work with others to create a potential solution to a company's goals. We sent our prototype to Jamble and have yet to hear back. I think this project was a reminder of how many ways one can design and how layout deeply affects the usability and efficiency of a program.  This project also enabled me to further my knowledge of figma and balsamiq."
+        ]
+    },
+    {
+        "tabTitle": "FanciClub: React",
+        "projectTitle": "FanciClub: Simulating a clothing companies home page using React",
+        "projectDescription": [
+            "In this project, we were tasked with creating a webpage using react, a software I had never used before, to perform a series of functions such as adding and removing items to a users cart, and filtering and sorting the items presented.",
+            "Site Specifics:",
+            "The goal of this particular application is to simulate a shopping site where a user can add garments to a cart and see the aggregate cost of what they have. Users can filter through item types, for tops, trousers and dresses, can sort each of these in order of price low/high and reset these filters.  Users can also remove items from their cart by clicking the remove button.",
+            "I made my application user friendly by having the buttons all labeled with standard, common words to produce expected results. For example, my add button adds an item to my cart; my remove button removes an item from my cart. Also, I had my total cart at the bottom so that users can scroll through and see all the items first. Additionally, I included a quantity feature so users can see how much of a product they have added to their cart. Also, my use of price low to high filters and sorting for specific item types takes hierarchy into consideration, as users may want to prioritize items with a lower price.",
+            "One key aspect of this project was learning how to use state changes. When the user presses the add or remove button, a state change is triggered, ie the total cost, quantity and cart is changed. I used state to handle an array that contained the items in the cart and handle the cart total. I also used state in my clothingItem component to keep track of the number of clicks the add button for the item received.",
+            "Below please see a link to my website for this project. The first link is to the original project, the second is to the improved version.",
+            ""
+        ],
+        "siteSpecifics": ["Following my completion of this course, I went back to add a few bells and whistles to this assignment to demonstrate my growing confidence with react. I added a new series of filter features which allows the user to sort items by colour, to make shopping easier and more efficient. I also added several visual qualities to the page: mainly, adding the company logo at the top, a frame around each product image and a gradient background. I also fixed some spacing issues with text and buttons to improve the aesthetics of the website. I hope that these additions demonstrate my progress as a designer!"],
+        "softwareUsed": "Created with React",
+        "projectDates": "November 2022",
+        "imagePaths": [ 
+        ],
+        "linkToWebsite": ["https://tiredlabradoodle123.github.io/development/", "https://tiredlabradoodle123.github.io/development2/"],
+        "lessons": [
+            "Through this project I learnt how to use react and furthered my knowledge of javascript and css overall. Specifically, I also learnt how to use components, how data is passed down through components and how a user triggers state changes. I thoroughly enjoyed this project!"
+        ]
+    },
+    {
+        "tabTitle": "Makeup Search Engine: Flutter",
+        "projectTitle": "Makeup App: Creating a makeup search engine webpage using Flutter",
+        "projectDescription": [
+            "In this project, we were tasked with creating a flutter app, a software I had never used before,using an API as a data source. We were tasked with using the async/await UI pattern using widgets and state variables. ",
+            "Site Specifics:",
+            "The goal of this particular application is to create an app which generates a the information of a revelant makeup product when the name of a makeup type is typed into the search bar. I also had the chance to play with the aesthetics of flutter by playing with background color and icons.",
+            "I made my application user friendly by having the buttons all labeled with standard, common words to produce expected results such as ‘enter’ for the search button and ‘enter a name’ as hint text in the search bar.",
+            "Below please see a link to my website for this project.",
+            ""
+        ],
+        "siteSpecifics": [
+            "Following my completion of this course, I modified my original website to demonstrate my improvement with Flutter. I was able to imbed an image of the product given as well as showing the product name, item price, description and website link. I also implemented a scroll feature so that there wouldn't be an information overflow. This means that if you open the studio on your app, everything will format and would will be able to scroll down to see all information. "
+        ],
+        "softwareUsed": "Created using Flutter.",
+        "projectDates": "December 2022",
+        "imagePaths": [
+        ],
+        "linkToWebsite": [ "https://api.flutlab.io/res/projects/773838/kqivz3mcbp1fpkvffgbx/index.html?v=1#/", "https://www.figma.com/proto/0rUfJjAtymhqO86rkhBpHB/Iterative-Design--Jamble?page-id=0%3A1&node-id=23%3A5&starting-point-node-id=23%3A55"],
+        "lessons": [
+            "Through this project I learned how to use flutter and gained more experience with integrating API’s in my code. I also learnt how to use Widgets, work with state variables and how to add aesthetic features to a flutter application.  Though I found this software very challenging to learn, I am glad to have been able to experience working with it!"
+        ]
+    },
+    {
+        "tabTitle": "Portfolio",
+        "projectTitle": "Final Portfolio for UX Course using Css, Html and JS",
+        "projectDescription": [
+            "In this project, we were asked to create a final website portfolio. Each piece was meant to showcase our design work and thinking skills, demonstrating our thought processes as well as our final products. Our works were intended to cohere around a character or theme. I chose to explore and adapt the works I have made in this course to document user experience with consumer goods - i.e. food, makeup, clothing. I strategize what I wanted my website to look like, as seen in my initial sketches on the right. I created subpages for each project, showcasing my thinking and final product. In doing so I was able to reflect upon what I have learnt in this course and go back and add to some other projects to show my improvement.",
+            "Below please see my initial sketch for the layout of this website:"
+        ],
+        "siteSpecifics": [
+            "I recieved the following comments in my peer critiques:",
+            "Person 1: Good organization and use of space. structure is simple and works. Possibly add more process photos to show process more than final product",
+            "Person 2: Good use of clear hierarchy in the project pages. Make the active tab look more distinguished than the rest. Great use of whitespace to avoid clutter. It would be cool to add more color/style to the portfolio page to show more personality",
+            "In response to these comments, I fixed the border on the active tab to make it look more distinguished. I also linked directly to all the original wesbites so that my process for each project was clear. I also added a gradeitn background to improve style.  All of the feedback I got was very useful in finalising my portfolio!"
+        ],
+        "softwareUsed": "Made using React, JS, CSS and HTML.",
+        "projectDates": "December 2022",
+        "imagePaths": [
+            "images/IMG_0836.jpeg"
+        ],
+        "linkToWebsite": [],
+        "lessons": [
+            "Over the course of this class I have developed critical skills as a webdesigner. I have learnt so much, not simply in terms of hard coding, but also about the process and conceptualisation stages required to make an effective user interface. I hope that my development over the course of this semester is apparent in this portfolio!"
+        ]
+    }
+]
