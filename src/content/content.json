@@ -58,7 +58,7 @@
             "Below please see a link to my website for this project. The first link is to the original project, the second is to the improved version.",
             ""
         ],
-        "siteSpecifics": ["Following my completion of this course, I went back to add a few bells and whistles to this assignment to demonstrate my growing confidence with react. I added a new series of filter features which allows the user to sort items by colour, to make shopping easier and more efficient. I also added several visual qualities to the page: mainly, adding the company logo at the top, a frame around each product image and a gradient background. I also fixed some spacing issues with text and buttons to improve the aesthetics of the website. I hope that these additions demonstrate my progress as a designer!"],
+        "siteSpecifics": ["Following my completion of this course, I went back to add a few bells and whistles to this assignment to demonstrate my growing confidence with react. Firstly, I realised there was a bug in my cart function where one you added an item, the total of all item increased.  Additionally, remove removed all item from the cart entirely. I fixed these errors and added a feature when you can add or decrease the quantity of an item at the bottom, in the cart. I added a new series of filter features which allows the user to sort items by colour, to make shopping easier and more efficient. I also added several visual qualities to the page: mainly, adding the company logo at the top, a frame around each product image and a gradient background. I also fixed some spacing issues with text and buttons to improve the aesthetics of the website. I hope that these additions demonstrate my progress as a designer!"],
         "softwareUsed": "Created with React",
         "projectDates": "November 2022",
         "imagePaths": [ 
@@ -86,7 +86,7 @@
         "projectDates": "December 2022",
         "imagePaths": [
         ],
-        "linkToWebsite": [ "https://api.flutlab.io/res/projects/773838/kqivz3mcbp1fpkvffgbx/index.html?v=1#/", "https://www.figma.com/proto/0rUfJjAtymhqO86rkhBpHB/Iterative-Design--Jamble?page-id=0%3A1&node-id=23%3A5&starting-point-node-id=23%3A55"],
+        "linkToWebsite": [ "https://api.flutlab.io/res/projects/773838/kqivz3mcbp1fpkvffgbx/index.html", "https://api.flutlab.io/res/projects/773836/tk3c8wfwdwkrv3zvpvix/index.html#/"],
         "lessons": [
             "Through this project I learned how to use flutter and gained more experience with integrating API’s in my code. I also learnt how to use Widgets, work with state variables and how to add aesthetic features to a flutter application.  Though I found this software very challenging to learn, I am glad to have been able to experience working with it!"
         ]
