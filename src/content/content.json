@@ -86,7 +86,7 @@
         "projectDates": "December 2022",
         "imagePaths": [
         ],
-        "linkToWebsite": [ "https://api.flutlab.io/res/projects/773838/kqivz3mcbp1fpkvffgbx/index.html", "https://api.flutlab.io/res/projects/773836/tk3c8wfwdwkrv3zvpvix/index.html#/"],
+        "linkToWebsite": [ "https://api.flutlab.io/res/projects/773838/kqivz3mcbp1fpkvffgbx/index.html", "https://flutlab.io/editor/955bb073-b11a-46e4-be41-493ec7b13bfd"],
         "lessons": [
             "Through this project I learned how to use flutter and gained more experience with integrating API’s in my code. I also learnt how to use Widgets, work with state variables and how to add aesthetic features to a flutter application.  Though I found this software very challenging to learn, I am glad to have been able to experience working with it!"
         ]
